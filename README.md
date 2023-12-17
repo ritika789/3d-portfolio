@@ -11,7 +11,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ritika789/your-portfolio-repo.git
+   git clone https://github.com/ritika789/3d-portfolio.git
 
 ## Install Dependencies:
 
